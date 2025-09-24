@@ -9,8 +9,12 @@ This project includes:
 - `Retail_Sales_Analysis.ipynb`: EDA and preprocessing
 - `retail_queries.sql`: SQL queries and insights
 - `Retail_Dashboard.pbix`: Power BI dashboard
+- images folder containing snapshots of the Power BI dashboard
 
+  
 ##  Key Insights:
 - Highest performing regions and products
 - Month-over-month and YoY growth
 - Segment-wise profitability
+
+- 
